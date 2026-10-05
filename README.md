@@ -15,7 +15,7 @@ Corresponding author email: seoghyunkim@kangwon.ac.kr
 
 
 # Description of the data and file structure
-- The dataset includes 9 files: 2 R code files for each salmonid species, and 6 GeoPackage files.
+- The dataset includes 9 files: 2 R code files for each salmonid species, 2 GeoPackage files, additional link (google drive) for streamnetwork shapefile.
 
 1. Files
 The GeoPackage files consist of 2 basin boundary files (Basin_boundary.gpkg and Standard_basin_boundary.gpkg) and occurrence segment file (O_masou_presence_stream_segments.gpkg).
